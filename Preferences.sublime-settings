@@ -1,0 +1,36 @@
+{
+	"auto_find_in_selection": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.jpg",
+		"*.gif",
+		"*.png",
+		"*.beam",
+		"*.dump",
+		"*.sql",
+		"*.exc",
+		"*.meta",
+		"*.sublime-workspace",
+		"*.sublime-project"
+	],
+	"find_selected_text": true,
+	"font_face": "Source Code Pro Light",
+	"font_size": 16.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": true
+}
